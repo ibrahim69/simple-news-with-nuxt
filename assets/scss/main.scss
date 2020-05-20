@@ -1,0 +1,25 @@
+.navbar {
+    background-color: white;
+    box-shadow: 0px -9px 20px #000000;
+  
+    .nav {
+      &-item {
+        padding: 0 .5rem;
+      }
+      &-link {
+        padding: 1rem;
+        color: #888888;
+      }
+    }
+}
+
+.content {
+  padding: 10px 0;
+}
+
+.footer {
+  padding: 10px;
+  text-align: center;
+  color: #ababab;
+  border: 1px solid #efefef;
+}
